@@ -1,0 +1,1 @@
+# TaterVision--Deep-Learning-model-for-classifying-defective-and-non-defective-potato-chips
