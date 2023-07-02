@@ -15,4 +15,5 @@ scipy
 Flask
 Flask-Cors
 scikit-learn
+dvc
 -e .
