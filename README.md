@@ -1,4 +1,5 @@
-# Chicken-Disease-Classification--Project
+# TaterVision--Deep-Learning-model-for-classifying-defective-and-non-defective-potato-chips
+
 
 
 ## Workflows
@@ -20,7 +21,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/ASHW-1N/TaterVision--Deep-Learning-model-for-classifying-defective-and-non-defective-potato-chips.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
