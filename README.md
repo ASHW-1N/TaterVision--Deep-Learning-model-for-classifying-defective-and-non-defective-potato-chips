@@ -92,8 +92,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 386286688233.dkr.ecr.ap-south-1.amazonaws.com/image_classifier
-
+    - Save the URI: 
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
@@ -139,16 +138,16 @@ open up you local host and port
 
 ## Save pass:
 
-s3cEZKH5yytiVnJ3h+eI3qhhzf9q1vNwEi6+q+WGdd+ACRCZ7JD6
+***your pass***
 
 
 ## Run from terminal:
 
-docker build -t chickenapp.azurecr.io/chicken:latest .
+docker build -t yourapp.azurecr.io/your:latest .
 
-docker login chickenapp.azurecr.io
+docker login yourapp.azurecr.io
 
-docker push chickenapp.azurecr.io/chicken:latest
+docker push yourapp.azurecr.io/your:latest
 
 
 ## Deployment Steps:
